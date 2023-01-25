@@ -6,3 +6,5 @@ url: https://gifmackenzie.github.io/IQHelp
 
 aux_links:
   Template Repository: https://github.com/gifmackenzie/IQHelp
+
+$link-color: $blue-100
