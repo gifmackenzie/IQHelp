@@ -8,3 +8,6 @@ aux_links:
   Template Repository: https://github.com/gifmackenzie/IQHelp
 
 $link-color: $blue-100;
+
+search_enabled: true
+search.button: true
