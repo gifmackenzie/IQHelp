@@ -9,7 +9,6 @@ has_children: true
 {: .no_toc}
 Vantaca IQ's different levels are separated by dashboards, each with their own unique offerring and value add for your management company.
 
-## Table of Contents
 {: .no_toc .text-delta }
 
 - Business IQ
