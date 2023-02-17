@@ -1,11 +1,12 @@
 ---
 layout: default
-title: UI Components
+title: IQ Dashboards
 nav_order: 2
 has_children: true
 ---
 
 # IQ Dashboard
+{: .no_toc}
 Vantaca IQ's different levels are separated by dashboards, each with their own unique offerring and value add for your management company.
 
 ## Table of Contents
