@@ -1,7 +1,8 @@
 ---
 title: Association IQ
 layout: default
-nav_order: 3
+parent: IQ Dashboards
+nav_order: 2
 ---
 
 # Association IQ

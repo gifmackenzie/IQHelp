@@ -1,7 +1,8 @@
 ---
 title: Business IQ
 layout: default
-nav_order: 2
+parent: IQ Dashboards
+nav_order: 1
 ---
 
 # Business IQ
