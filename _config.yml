@@ -4,9 +4,9 @@ theme: just-the-docs
 
 url: https://gifmackenzie.github.io/IQHelp
 
-external_aux_links:
+aux_links:
   "Vantaca IQ": 
-  - "iq.vantaca.net"
+  - "https://iq.vantaca.net"
 
 
 
