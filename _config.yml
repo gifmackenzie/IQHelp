@@ -1,16 +1,18 @@
 title: Vantaca IQ Documentation
 description: Support documentation for Vantaca IQ
 theme: just-the-docs
-
+logo: "/assets/images/VantacaLogo.png"
 url: https://gifmackenzie.github.io/IQHelp
 
+markdown: kramdown
+
 favicon_ico: "/assets/images/favicon.ico"
-logo: "/assets/images/VantacaLogo.png"
 
 aux_links:
   "Vantaca IQ": 
   - "https://iq.vantaca.net"
 
+color_scheme: dark
 
 
 $link-color: $blue-100;
