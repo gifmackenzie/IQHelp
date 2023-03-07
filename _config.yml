@@ -4,8 +4,8 @@ theme: just-the-docs
 
 url: https://gifmackenzie.github.io/IQHelp
 
-
-logo: "/assets/images/VantacaLogo-New-Final_Horizontal"
+favicon_ico: "/assets/images/favicon.ico"
+logo: "/assets/images/VantacaLogo-New-Final_Horizontal.jpg"
 
 aux_links:
   "Vantaca IQ": 
