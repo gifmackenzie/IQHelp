@@ -3,7 +3,7 @@ title: Home
 layout: home
 nav_order: 1
 ---
-![]("/assets/images/VantacaIQLogo.png"
+![]("/assets/images/VantacaIQLogo.png")
 
 ## Unlock the Value of Vantaca IQ
 
