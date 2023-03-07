@@ -11,6 +11,5 @@ A list of Vantaca IQ's Release Notes which contain any newly added features and 
 
 {: .no_toc .text-delta }
 
-- 3.7.2023 IQ Release Notes
-
+- March 7th, 2023 Release Notes
 {:toc}
