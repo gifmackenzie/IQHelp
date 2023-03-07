@@ -17,4 +17,5 @@ Each Employee Name can be selected to see more details about each employee's act
 	- **Activity Trend**: The graph provides a breakdown of the employee's activity that they're completing on a daily basis.
 	- **Open My Items**: Open action items visible to the employee in their My Items list.
 	- **Action Item Activity**: Action item notes or step changes performed by the employee.
+	- **Completed Invoices**: A list of invoices that have been closed by the employee within the selected date range. *Selecting an XN will open the Action Item within Vantaca.*
 
