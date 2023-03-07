@@ -5,7 +5,7 @@ nav_order: 3
 has_children: true
 ---
 
-# IQ Release Notes
+# Release Notes
 {: .no_toc}
 A list of Vantaca IQ's Release Notes which contain any newly added features and enhancements along with bugs and corrections addressed in the release.
 
