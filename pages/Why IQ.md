@@ -32,6 +32,6 @@ Drag, drop, or easily hide each of the dashboard's tools to create a customized 
 
 ![Custom Dashboards](./assets/images/IQDashboardConfig.gif)
 
-<img src="
+<img src="C:\Users\GavinMackenzie\OneDrive - Vantaca, LLC\Desktop\IQHelp\assets\images\IQDashboardConfig"
 
 ---
