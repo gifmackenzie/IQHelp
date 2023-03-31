@@ -18,7 +18,7 @@ Vantaca IQ seamlessly integrates with your existing Vantaca workflow, allowing y
 
 ## The Value of Vantaca IQ
 
-![Magnifying Glass](./assets/images/IQmagGlass.png){: width="100" height="100" style="float:left; padding-right 30px; padding-top: 30px" }
+![Magnifying Glass](./assets/images/IQmagGlass.png){: width="100" height="100" style="float:left; padding-right: 30px; padding-top: 30px" }
 
 Reallocating your internal employees to perform the data collection can consume anywhere from $60K to $300K worth of employee productivity. *Vantaca IQ eliminates the employee lift and provides exactly the data you need without wasting your employee’s time and resources*.
 
