@@ -18,10 +18,12 @@ Vantaca IQ seamlessly integrates with your existing Vantaca workflow, allowing y
 
 ## The Value of Vantaca IQ
 
-<img align="left" width="100" height="100" src="./assets/images/IQmagGlass.png">
+![Magnifying Glass](./assets/images/IQmagGlass.png){: width="100" height="100" style="float:left; padding-right 10px; padding-top: 30px" }
+
 Reallocating your internal employees to perform the data collection can consume anywhere from $60K to $300K worth of employee productivity. *Vantaca IQ eliminates the employee lift and provides exactly the data you need without wasting your employee’s time and resources*.
 
-It can take anywhere from 45 to 90 days to capture and pull in the data that is needed to paint the whole picture using other solutions. *Vantaca IQ is constantly gathering and organizing your vital data which means your metrics are always up to date and always ready to go*.
+It can take anywhere from 45 to 90 days to capture and pull in the data that is needed to paint the whole picture using other solutions. *Vantaca IQ is constantly gathering and organizing your vital data which means your metrics are always up to date and always ready to go*. <img align="left" width="100" height="100" padding-right: "10px" src="./assets/images/IQmagGlass.png">
+
 
 Business intelligence reports are typically  outside of a management companies capabilities. When the job is  outsourced, it can cost anywhere from $50k-$200K to develop these reports. *Vantaca is an expert in the HOA industry so we’ve ensured Vantaca IQ reports on exactly what you need to know to make informed decisions*.
 
