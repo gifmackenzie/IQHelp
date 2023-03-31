@@ -30,8 +30,7 @@ Business intelligence reports are typically  outside of a management companies c
 
 Drag, drop, or easily hide each of the dashboard's tools to create a customized layout that fits you and your management company's needs.
 
-![Custom Dashboards](./assets/images/IQDashboardConfig.gif)
+![Custom Dashboards](IQDashboardConfig.gif)
 
-<img src="C:\Users\GavinMackenzie\OneDrive - Vantaca, LLC\Desktop\IQHelp\assets\images\IQDashboardConfig"
-
+<img src = "IQDashboardConfig.gif" width="800" />
 ---
